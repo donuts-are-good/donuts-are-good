@@ -27,7 +27,7 @@ independent devs and open source projects may contact for help
 
 - [rsa-helper](https://github.com/donuts-are-good/rsa-helper)  - rsa helper functions for signing and encryption
 
-- ![curvy-88x31](https://user-images.githubusercontent.com/96031819/218027982-f5a138de-a7c5-42dc-a9e5-56a607d1461b.png) [curvy](https://github.com/donuts-are-good/curvy) - ed25519/x25519 key conversion test
+- [curvy](https://github.com/donuts-are-good/curvy) - ed25519/x25519 key conversion test
 
 
 ## longer projects
