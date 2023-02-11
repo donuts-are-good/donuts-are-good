@@ -29,6 +29,8 @@ independent devs and open source projects may contact for help
 
 - [curvy](https://github.com/donuts-are-good/curvy) - ed25519/x25519 key conversion test
 
+- [bearclaw](https://github.com/donuts-are-good/bearclaw) - tiny static site generator
+
 
 ## longer projects
 
