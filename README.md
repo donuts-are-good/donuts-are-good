@@ -11,6 +11,10 @@ independent devs and open source projects may contact for help
 ## 2023
 2023 is dedicated to one project per week. Most of these are stdlib, vanilla, and put together in the span of a laptop charge or some other difficulty modifier. No reason, just fun. 
 
+## scoreboard
+
+![repo list scoreboard](https://user-images.githubusercontent.com/96031819/218330877-50c33e52-84db-4fb6-bdf4-a2f02fad71f1.svg)
+
 ## weekly projects
 
 - [gofetch](https://github.com/donuts-are-good/gofetch)  - a light alternative to neofetch
