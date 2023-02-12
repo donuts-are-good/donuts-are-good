@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=donuts-are-good&color=555555&style=for-the-badge&label=visitors)
+![GitHub User's stars](https://img.shields.io/github/stars/donuts-are-good?affiliations=OWNER%2CCOLLABORATOR&color=555&logo=github&logoColor=ffffff&style=for-the-badge) ![](https://komarev.com/ghpvc/?username=donuts-are-good&color=555555&style=for-the-badge&label=visitors)
 
 ## donuts-are-good
 accepting collabs and consults
