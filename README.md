@@ -13,7 +13,7 @@ independent devs and open source projects may contact for help
 
 ## scoreboard
 
-![repo list scoreboard](https://user-images.githubusercontent.com/96031819/218330877-50c33e52-84db-4fb6-bdf4-a2f02fad71f1.svg)
+![repo list scoreboard](https://user-images.githubusercontent.com/96031819/219135089-b1db572c-23d3-48f4-8b15-5f651d0baee2.svg)
 
 ## weekly projects
 
