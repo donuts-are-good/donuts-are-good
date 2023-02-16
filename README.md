@@ -39,6 +39,8 @@ independent devs and open source projects may contact for help
 
 - [bearclaw](https://github.com/donuts-are-good/bearclaw) - tiny static site generator
 
+- [github-scoreboard](https://github.com/donuts-are-good/github-scoreboard) - generate your github repo scoreboard
+
 
 ## longer projects
 
