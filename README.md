@@ -2,11 +2,8 @@
 
 
 
-## donuts-are-good
-accepting collabs and consults
-
-## giving back
-independent devs and open source projects may contact for help
+# donuts-are-good
+accepting collabs and consults - independent devs and open source projects may contact for help
 
 ## scoreboard 2023 so far
 
