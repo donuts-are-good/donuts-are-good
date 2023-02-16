@@ -10,6 +10,8 @@ independent devs and open source projects may contact for help
 
 ## scoreboard 2023 so far
 
+generated with https://github.com/donuts-are-good/github-scoreboard 
+
 ![repo list scoreboard](https://user-images.githubusercontent.com/96031819/219259863-c874c86a-b5ae-458f-b473-c25dd4893f3e.svg)
 
 ## weekly projects
