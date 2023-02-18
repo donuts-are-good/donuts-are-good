@@ -9,7 +9,7 @@ accepting collabs and consults - independent devs and open source projects may c
 
 generated with https://github.com/donuts-are-good/github-scoreboard 
 
-![repo_list](https://user-images.githubusercontent.com/96031819/219640970-85ec94c4-4aea-40ea-9b2c-06ab625c95a3.svg)
+![repo_list](https://raw.githubusercontent.com/donuts-are-good/donuts-are-good/master/repo_list.svg)
 
 ## weekly projects
 
