@@ -11,7 +11,8 @@ this is my blog, made with [bearclaw](https://github.com/donuts-are-good/bearcla
 
 [https://donuts-are-good.com](https://donuts-are-good.com) 
 
-- "[a 'hello' of sorts](https://donuts-are-good.com/a-hello-of-sorts.md.html)" - [comments](https://github.com/donuts-are-good/blog/discussions/1)
+- 001 - "[a mixed bag of goodies](https://donuts-are-good.com/a-mixed-bag-of-goodies.md.html)" - [comments](https://github.com/donuts-are-good/blog/discussions/2)
+- 000 - "[a 'hello' of sorts](https://donuts-are-good.com/a-hello-of-sorts.md.html)" - [comments](https://github.com/donuts-are-good/blog/discussions/1)
 
 
 ## scoreboard 2023, so far
