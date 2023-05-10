@@ -28,6 +28,18 @@ generated with https://github.com/donuts-are-good/github-scoreboard
 
 irons in the fire to distract from weekly things, larger goals or scope. private projects not included.
 
+### donut-utils - coreutils rewrite
+
+- [copy](https://github.com/donuts-are-good/copy) - file copying tool with progress bar
+
+- [move](https://github.com/donuts-are-good/move) - file moving tool with progress bar
+
+- [lens](https://github.com/donuts-are-good/lens) - file listing tool with emojis and human readable filesizes
+
+- [grop](https://github.com/donuts-are-good/grop) - fast recursive searching tool for files and folders
+
+- [checksum](https://github.com/donuts-are-good/checksum) - checksumming and comparing tool w/ md5, sha1, sha-256 and sha-512
+
 ### fir - version control alternative to git
 
 - [fir](https://github.com/firsync/fir) - a simpler version control system (client)
