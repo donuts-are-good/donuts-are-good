@@ -3,7 +3,7 @@
 
 
 # donuts-are-good
-accepting collabs and consults - independent devs and open source projects may contact for help
+accepting collabs and consults - independent devs and open source projects may contact for help - dh at reallyoffline dot com
 
 ## blog
 
