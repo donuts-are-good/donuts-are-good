@@ -24,6 +24,8 @@ generated with https://github.com/donuts-are-good/github-scoreboard
 
 ![repo_list](https://raw.githubusercontent.com/donuts-are-good/donuts-are-good/master/repo_list.svg)
 
+[![An image of @donutsaregood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donutsaregood)](https://holopin.io/@donutsaregood)
+
 ## longer projects
 
 irons in the fire to distract from weekly things, larger goals or scope. private projects not included.
