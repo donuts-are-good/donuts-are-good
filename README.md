@@ -1,3 +1,6 @@
+
+[![An image of @donutsaregood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donutsaregood)](https://holopin.io/@donutsaregood)
+
 ![donuts-are-good's followers](https://img.shields.io/github/followers/donuts-are-good?&color=555&style=for-the-badge&label=followers) ![donuts-are-good's stars](https://img.shields.io/github/stars/donuts-are-good?affiliations=OWNER%2CCOLLABORATOR&color=555&style=for-the-badge) ![donuts-are-good's visitors](https://komarev.com/ghpvc/?username=donuts-are-good&color=555555&style=for-the-badge&label=visitors)
 
 
@@ -24,7 +27,6 @@ generated with https://github.com/donuts-are-good/github-scoreboard
 
 ![repo_list](https://raw.githubusercontent.com/donuts-are-good/donuts-are-good/master/repo_list.svg)
 
-[![An image of @donutsaregood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donutsaregood)](https://holopin.io/@donutsaregood)
 
 ## longer projects
 
