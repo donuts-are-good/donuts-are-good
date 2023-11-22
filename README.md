@@ -27,7 +27,7 @@ generated with https://github.com/donuts-are-good/github-scoreboard
 
 ![repo_list](https://raw.githubusercontent.com/donuts-are-good/donuts-are-good/master/repo_list.svg)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=donuts-are-good)](https://git.io/streak-stats)
 ## longer projects
 
 irons in the fire to distract from weekly things, larger goals or scope. private projects not included.
