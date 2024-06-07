@@ -1,6 +1,6 @@
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/banderson443/fedora40_conky/assets/96031819/3f234b1d-7b30-43c4-9344-85ad9bbaf5f0');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.1; background: url('https://github.com/banderson443/fedora40_conky/assets/96031819/3f234b1d-7b30-43c4-9344-85ad9bbaf5f0');]{x0000}$}
 
 [![An image of @donutsaregood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donutsaregood)](https://holopin.io/@donutsaregood)
 
