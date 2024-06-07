@@ -1,4 +1,7 @@
 
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/banderson443/fedora40_conky/assets/96031819/9a86362e-dfcd-4707-be41-9cb694584c48');]{x0000}$}
+
 [![An image of @donutsaregood's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/donutsaregood)](https://holopin.io/@donutsaregood)
 
 ![donuts-are-good's followers](https://img.shields.io/github/followers/donuts-are-good?&color=555&style=for-the-badge&label=followers) ![donuts-are-good's stars](https://img.shields.io/github/stars/donuts-are-good?affiliations=OWNER%2CCOLLABORATOR&color=555&style=for-the-badge) ![donuts-are-good's visitors](https://komarev.com/ghpvc/?username=donuts-are-good&color=555555&style=for-the-badge&label=visitors)
