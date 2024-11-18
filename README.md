@@ -31,11 +31,6 @@ Build something that reaches 1M users.
 
 ## challenge 2023
 
-generated with https://github.com/donuts-are-good/github-scoreboard 
-
-
 2023 is dedicated to one project per week. Most of these are stdlib, vanilla, and put together in the span of a laptop charge or some other difficulty modifier. No reason, just fun. 
-
-![repo_list](https://raw.githubusercontent.com/donuts-are-good/donuts-are-good/master/repo_list.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=donuts-are-good)](https://git.io/streak-stats)
